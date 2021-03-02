@@ -1,0 +1,6 @@
+framework module Pods_SearchControllerPokemon {
+  umbrella header "Pods-SearchControllerPokemon-umbrella.h"
+
+  export *
+  module * { export * }
+}
